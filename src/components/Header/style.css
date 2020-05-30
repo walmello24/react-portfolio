@@ -1,0 +1,12 @@
+header {
+    min-height: 10vh;
+    color: #fff;
+    text-shadow: 0 0 3em black;
+    text-align: center;
+    padding: 2em;
+    margin: 1em 0em;
+    font-size: 2em;
+    background-color: #000a;
+    box-shadow: 0 0 0.2em blueviolet;
+}
+

@@ -1,5 +1,8 @@
 import React from "react"
+import Navbar from "./components/Navbar"
+import Header from "./components/Header"
 
 export default _ => <>
-  se isto aqui for mostrado então tudo ok
+    <Navbar/>
+    <Header/>
 </>
