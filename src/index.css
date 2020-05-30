@@ -14,8 +14,8 @@ code {
 }
 
 body {
-  background: linear-gradient(#000a, #000a), url("./images/neon.jpg") no-repeat fixed;
-  background-color: black;
+  /*background: linear-gradient(#000a, #000a), url("./images/neon.jpg") no-repeat fixed;*/
+  background-color: #000;
   background-size: 300%;
   margin: 0;
 }

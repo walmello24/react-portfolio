@@ -6,7 +6,14 @@ header {
     padding: 2em;
     margin: 1em 0em;
     font-size: 2em;
-    background-color: #000a;
+    background-color: #70ca;
     box-shadow: 0 0 0.2em blueviolet;
 }
 
+a:visited, a {
+    color: wheat;
+}
+
+a:hover {
+    color: blueviolet;
+}
